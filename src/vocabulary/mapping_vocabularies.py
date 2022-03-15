@@ -66,7 +66,6 @@ def main(**kwargs):
 
     vocabulary_df = pd.read_csv(vocab_path)
 
-    #GKG = GoogleKG('AIzaSyBhX8-XYxRkJCav4V9_1cRLaTDN30Owcfo')
 
     # print('getting wikidata uris...')
     # start = time()
